@@ -2,7 +2,7 @@
     <!-- start: header -->
     <header class="header">
         <div class="logo-container">
-            <a href="{{ route('home') }}" class="">
+            <a href="{{ route('home') }}" class="logo mt-0">
                 <img src="{{ url('./img/NAD_Logo.png') }}" height="60" alt="NAD_Logo" />
             </a>
         </div>
